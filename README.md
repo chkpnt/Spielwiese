@@ -2,7 +2,7 @@
 
 ## Badges-Test
 [![Gradle plugin](https://img.shields.io/badge/plugins.gradle.org-de.chkpnt.truststorebuilder-blue.svg)](https://plugins.gradle.org/plugin/de.chkpnt.truststorebuilder)
-[![JCenter artifact](https://img.shields.io/badge/JCenter-de.chkpnt%3Atruststorebuilder-gradle-plugin-blue.svg)](https://bintray.com/chkpnt/maven/truststorebuilder-gradle-plugin/view)
+[![JCenter artifact](https://img.shields.io/badge/JCenter-de.chkpnt%3Atruststorebuilder--gradle--plugin-blue.svg)](https://bintray.com/chkpnt/maven/truststorebuilder-gradle-plugin/view)
 [![License](https://img.shields.io/github/license/chkpnt/truststorebuilder-gradle-plugin.svg?label=License)](https://tldrlegal.com/license/apache-license-2.0-(apache-2.0))  
 [![Linux Build Status](https://img.shields.io/travis/chkpnt/truststorebuilder-gradle-plugin/master.svg?label=Linux build)](https://travis-ci.org/chkpnt/truststorebuilder-gradle-plugin)
 [![Windows Build Status](https://img.shields.io/appveyor/ci/chkpnt/truststorebuilder-gradle-plugin/master.svg?label=Windows build)](https://ci.appveyor.com/project/chkpnt/truststorebuilder-gradle-plugin/branch/master)  
